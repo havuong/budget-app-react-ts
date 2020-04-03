@@ -1,10 +1,5 @@
-// Import dependencies
 import * as React from 'react'
-
-// Import interfaces
 import { BudgetItemObjInterface, BudgetListInterface } from './../interfaces'
-
-// Import components
 import BudgetItem from './budget-item'
 
 const BudgetList = (props: BudgetListInterface) => {

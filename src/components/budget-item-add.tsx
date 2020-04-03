@@ -1,8 +1,5 @@
-// Import dependencies
 import * as React from 'react'
 import shortid from 'shortid'
-
-// Import interface
 import { BudgetItemAddInterface } from './../interfaces'
 
 const BudgetItemAdd = (props: BudgetItemAddInterface) => {
